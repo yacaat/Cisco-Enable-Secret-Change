@@ -1,0 +1,2 @@
+print('Yalin')
+quit()
